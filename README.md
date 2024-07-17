@@ -1,4 +1,4 @@
-# E-commerce Site
+# ShopEase
 
 This project is an e-commerce site built using React and a JSON API server. It allows users to browse products, add them to their cart, and manage their cart items. The site fetches product data from a JSON API server to provide dynamic content.
 
